@@ -1,47 +1,308 @@
 [
   {
-    "id": "r-demo-001",
-    "date": "2026-08-15",
-    "title": "8月15日 巅峰赛",
-    "category": "lord-gaming",
-    "duration": "约3小时",
-    "url": "",
-    "note": "示例条目，学会添加后可删除"
-  },
-  {
-    "id": "r-demo-002",
-    "date": "2026-08-12",
-    "title": "8月12日 三角洲行动",
+    "id": "r001",
+    "date": "2026-06-14",
+    "title": "盛世天下回宫！",
     "category": "lord-gaming",
     "duration": "约2小时",
-    "url": "",
-    "note": "示例条目"
+    "url": "https://v.douyu.com/show/brN0MmRjArrWpyxA",
+    "note": "浪漫过敏之宫斗到一半想起来没收菜"
   },
   {
-    "id": "r-demo-003",
-    "date": "2026-08-10",
-    "title": "8月10日 OB eStar vs AG",
-    "category": "sea-teach",
-    "duration": "约2小时30分",
-    "url": "",
-    "note": "示例条目"
+    "id": "r002",
+    "date": "2026-06-14",
+    "title": "殿下最爱的三角洲",
+    "category": "lord-gaming",
+    "duration": "约2小时",
+    "url": "https://v.douyu.com/show/ERALvEXxdRDW1Vw0"
   },
   {
-    "id": "r-demo-004",
-    "date": "2026-08-08",
-    "title": "8月8日 户外散步",
+    "id": "r003",
+    "date": "2026-06-13",
+    "title": "体验盛世天下",
+    "category": "lord-gaming",
+    "duration": "约2小时",
+    "url": "https://v.douyu.com/show/qJgOWx6Kyey7kVzL",
+    "note": "耶妃进宫初体验"
+  },
+  {
+    "id": "r004",
+    "date": "2026-05-25",
+    "title": "奇妙日运动会",
     "category": "outdoor",
-    "duration": "约1小时",
-    "url": "",
-    "note": "示例条目"
+    "duration": "约1小时30分",
+    "url": "https://v.douyu.com/show/Qyz171re3gDMBJj9",
+    "note": "沉浸式观看殿下打台球"
   },
   {
-    "id": "r-demo-005",
-    "date": "2026-08-06",
-    "title": "8月6日 唱歌杂谈",
+    "id": "r005",
+    "date": "2026-04-10",
+    "title": "拆生日礼物",
     "category": "easter-egg",
-    "duration": "约40分钟",
-    "url": "",
-    "note": "示例条目"
+    "duration": "约1小时20分",
+    "url": "https://v.douyu.com/show/yVY8WwDoyNrvLOz9",
+    "note": "生日快乐呀"
+  },
+  {
+    "id": "r006",
+    "date": "2026-04-09",
+    "title": "殿下最爱的三角洲",
+    "category": "lord-gaming",
+    "duration": "约4小时30分",
+    "url": "https://v.douyu.com/show/Kg1VWRQZyLDMGbNA",
+    "note": "花海海大汪自己被C4炸到"
+  },
+  {
+    "id": "r007",
+    "date": "2026-03-19",
+    "title": "OB 情久 vs 西安WE",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/mPyq7obgGaqv1gLY"
+  },
+  {
+    "id": "r008",
+    "date": "2026-03-19",
+    "title": "OB DYG vs WB",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/mPyq7obg0YQv1gLY"
+  },
+  {
+    "id": "r009",
+    "date": "2026-03-18",
+    "title": "OB 狼队 vs KSG",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/aRbBv3Ya6o2M6PYV"
+  },
+  {
+    "id": "r010",
+    "date": "2026-03-18",
+    "title": "OB 成都AG超玩会 vs 北京JDG",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/NbwE7ZYkQadvn5Zz"
+  },
+  {
+    "id": "r011",
+    "date": "2026-03-15",
+    "title": "OB 情久 vs TES",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/NVm0WK4e2wBvJeBP"
+  },
+  {
+    "id": "r012",
+    "date": "2026-03-15",
+    "title": "OB Hero vs 西安WE",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/GnzXvbPZ6rlM462l"
+  },
+  {
+    "id": "r013",
+    "date": "2026-03-15",
+    "title": "OB LGD vs TTG",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/3rob7jojLpyMgkZl"
+  },
+  {
+    "id": "r014",
+    "date": "2026-03-14",
+    "title": "OB DYG vs 狼队",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/a2JEMJJpX9ZMNxml"
+  },
+  {
+    "id": "r015",
+    "date": "2026-03-14",
+    "title": "OB 成都AG超玩会 vs KSG",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/a2JEMJJpXy0MNxml"
+  },
+  {
+    "id": "r016",
+    "date": "2026-03-13",
+    "title": "OB TTG vs 情久",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/DrwnvzDzqYmMPNaX"
+  },
+  {
+    "id": "r017",
+    "date": "2026-03-13",
+    "title": "OB Hero vs LGD",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/X3JzMalb8w17PQro"
+  },
+  {
+    "id": "r018",
+    "date": "2026-03-12",
+    "title": "OB 西安WE vs TES",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/3rob7jojgn3MgkZl"
+  },
+  {
+    "id": "r019",
+    "date": "2026-03-12",
+    "title": "OB 成都AG超玩会 vs DYG",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/qJgOWx5G0qRvkVzL"
+  },
+  {
+    "id": "r020",
+    "date": "2026-03-12",
+    "title": "胆大耶耶勇闯女鬼桥",
+    "category": "lord-gaming",
+    "duration": "约2小时",
+    "url": "https://v.douyu.com/show/ZB5Kv9gZj5lMa93x",
+    "note": "试图攻击女鬼第一人"
+  },
+  {
+    "id": "r021",
+    "date": "2026-03-11",
+    "title": "OB 北京JDG vs KSG",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/2Bj8vG3lw13vObnd"
+  },
+  {
+    "id": "r022",
+    "date": "2026-03-11",
+    "title": "OB 北京WB vs 狼队",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/ERALvEq5JlAv1Vw0"
+  },
+  {
+    "id": "r023",
+    "date": "2026-03-11",
+    "title": "殿下最爱的三角洲",
+    "category": "lord-gaming",
+    "duration": "约4小时",
+    "url": "https://v.douyu.com/show/ERALvEq5JlAv1Vw0",
+    "note": "错误的三人组之鹏飞+尼尔"
+  },
+  {
+    "id": "r024",
+    "date": "2026-03-10",
+    "title": "殿下最爱的三角洲",
+    "category": "lord-gaming",
+    "duration": "约6小时",
+    "url": "https://v.douyu.com/show/2Bj8vG3lB3DvObnd",
+    "note": "错误的三人组之尼尔+ziyu"
+  },
+  {
+    "id": "r025",
+    "date": "2026-03-07",
+    "title": "OB TTG vs TES",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/2Bj8vG3lpeLvObnd"
+  },
+  {
+    "id": "r026",
+    "date": "2026-03-07",
+    "title": "OB LGD vs 西安WE",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/Kg1VWRQq8eQMGbNA"
+  },
+  {
+    "id": "r027",
+    "date": "2026-03-07",
+    "title": "OB 成都AG超玩会 vs 北京WB",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/Bjq4Mex8xrg75Ea8"
+  },
+  {
+    "id": "r028",
+    "date": "2026-03-05",
+    "title": "生日直播",
+    "category": "easter-egg",
+    "duration": "约2小时",
+    "url": "https://v.douyu.com/show/jwzOvp1lQ9X7ZVRm",
+    "note": "猜人环节也太有意思了"
+  },
+  {
+    "id": "r029",
+    "date": "2026-03-04",
+    "title": "OB 北京JDG vs 情久",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/aRbBv3YaVL2M6PYV"
+  },
+  {
+    "id": "r030",
+    "date": "2026-03-04",
+    "title": "OB 成都AG超玩会 vs TTG",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/a4Jj7lBAzx6WDk01"
+  },
+  {
+    "id": "r031",
+    "date": "2026-03-03",
+    "title": "OB eStar vs 西安WE",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/Kp1QM8YbXmRWk4bj"
+  },
+  {
+    "id": "r032",
+    "date": "2026-03-03",
+    "title": "OB LGD vs RW",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/Kp1QM8Yb2apWk4bj"
+  },
+  {
+    "id": "r033",
+    "date": "2026-03-01",
+    "title": "OB 北京WB vs 情久",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/6Aw87OQx5qoWYGkg"
+  },
+  {
+    "id": "r034",
+    "date": "2026-02-28",
+    "title": "OB DYG vs 狼队",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/wLjGvLrgg8jMmO90"
+  },
+  {
+    "id": "r035",
+    "date": "2026-02-28",
+    "title": "退役仪式ovo",
+    "category": "easter-egg",
+    "duration": "约4小时",
+    "url": "https://v.douyu.com/show/0Q8mMY533jqM49Ad",
+    "note": "罗思源天天开心"
+  },
+  {
+    "id": "r036",
+    "date": "2026-02-27",
+    "title": "OB AG vs RW",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/brN0MmQYnArMpyxA"
+  },
+  {
+    "id": "r037",
+    "date": "2026-02-27",
+    "title": "OB WB vs TTG",
+    "category": "sea-teach",
+    "duration": "",
+    "url": "https://v.douyu.com/show/2V0JMVQmorb7RY5k"
   }
 ]
