@@ -1,0 +1,47 @@
+[
+  {
+    "id": "r-demo-001",
+    "date": "2026-08-15",
+    "title": "8月15日 巅峰赛",
+    "category": "lord-gaming",
+    "duration": "约3小时",
+    "url": "",
+    "note": "示例条目，学会添加后可删除"
+  },
+  {
+    "id": "r-demo-002",
+    "date": "2026-08-12",
+    "title": "8月12日 三角洲行动",
+    "category": "lord-gaming",
+    "duration": "约2小时",
+    "url": "",
+    "note": "示例条目"
+  },
+  {
+    "id": "r-demo-003",
+    "date": "2026-08-10",
+    "title": "8月10日 OB eStar vs AG",
+    "category": "sea-teach",
+    "duration": "约2小时30分",
+    "url": "",
+    "note": "示例条目"
+  },
+  {
+    "id": "r-demo-004",
+    "date": "2026-08-08",
+    "title": "8月8日 户外散步",
+    "category": "outdoor",
+    "duration": "约1小时",
+    "url": "",
+    "note": "示例条目"
+  },
+  {
+    "id": "r-demo-005",
+    "date": "2026-08-06",
+    "title": "8月6日 唱歌杂谈",
+    "category": "easter-egg",
+    "duration": "约40分钟",
+    "url": "",
+    "note": "示例条目"
+  }
+]
